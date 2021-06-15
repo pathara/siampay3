@@ -267,7 +267,7 @@ $("select").selectBoxIt({
 		(new WOW).init(), jQuery(window).load(function() {
 			jQuery("preloader").delay(100).fadeOut("slow"), jQuery("load").delay(100).fadeOut("slow")
 		}), e(function() {
-			e(".nav").bind("click", function(o) {
+			e(".navbar-nav").bind("click", function(o) {
 				var s = e(this);
 				e("html, body").stop().animate({
 					scrollTop: e(s.attr("")).offset().top
