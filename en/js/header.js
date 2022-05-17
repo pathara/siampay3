@@ -12,7 +12,7 @@ $('#v1').html('<source src="images/header.jpg" type="image/jpg"/><em>Sorry, your
 /*
 $('#v1').html('<source src="media/bg-pesopay.mp4" type="video/mp4"/><em>Sorry, your browser does not support HTML5 video.</em>');
  */
- $('.cryear').html('2021 SIAMPAY.COM. ALL RIGHTS RESERVED');
+ $('.cryear').html('2022 SIAMPAY.COM. ALL RIGHTS RESERVED');
  $('.country').html('SiamPay');
  $('.about-f').html('SiamPay is the leading online payment gateway system in Thailand. We provide secure and seamless electronic payment solutions for both SME\'s and large enterprises. Our online payment system delivers reliable merchant services that allow businesses to accept online payments ranging from credit cards, internet banking, cash or over-the-counter payments, e-Wallet payments and PayPal.');
 // Navigation Config //
@@ -42,7 +42,7 @@ $('.m3title2sub3').attr('href', 'china-payments.html');/*
 $('.m3title2sub4').html('PayPal');
 $('.m3title2sub4').attr('href', 'paypal.html');*/
 $('.sub3').addClass('hide');
-$('.m3title3').html('Merchant Solutions');
+$('.m3title3').html('E-Wallet Payments');
 $('.m3title3sub1').html('Startups');
 $('.m3title3sub1').attr('href', 'startups.html');
 $('.m3title3sub2').html('Small & Medium Business');
